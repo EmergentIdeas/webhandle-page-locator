@@ -1,8 +1,8 @@
 {
 	"name": "@webhandle/page-locator",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "",
-	"main": "lib/page-locator.js",
+	"main": "lib/page-locator.mjs",
 	"scripts": {
 		"test": "node_modules/mocha/bin/mocha",
 		"testDebug": "node --inspect-brk node_modules/mocha/bin/mocha"
